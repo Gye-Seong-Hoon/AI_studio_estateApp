@@ -1,0 +1,6 @@
+{
+  "name": "중개Link (RealtorLink)",
+  "description": "공인중개사 전용 매물 등록, 공공데이터 연동 규제 자동 조회, 일반인 지번 생략 공개 및 계약서/확인설명서 자동 작성 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
